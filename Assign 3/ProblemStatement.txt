@@ -1,0 +1,1 @@
+In this file , we have assignment about AJAX, enter user ID/name, get other info about them.
