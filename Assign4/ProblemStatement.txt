@@ -1,1 +1,11 @@
+Title: 
+Implement a sample web application scenario using Java Servlets, Java Server Pages and
+Java Beans as the server side dynamic content generation technologies. Make use of MVC architecture for implementing the web application.
+
+Problem Statement:
+Consider a simple web form where you give a Student Roll number and get back Student Profile details from the database. 
+•	Enter student roll number and marks, get the output of student info on jsp page
+•	Use servlet as a controller
+•	Calculate the percentage based on marks
+•	Make use of MVC architecture, based on Java Servlet, JSP and Java Bean to implement this web based scenario. Make student Bean for calculation and storing info
 
